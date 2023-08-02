@@ -5,7 +5,7 @@
 
 🌱 I’m currently working as a Ph.D. student in the Structures domain and I'm learning the different AI techniques and its application in Civil Engineering problems.
 
-👀 I’m interested in Artificial Intelligence applied in Computational Mechanics.
+👀 I’m interested in Artificial Intelligence applied to Computational Mechanics.
 
 📫 How to reach me: 
    - depaulaferreiramateus.prog@gmail.com
